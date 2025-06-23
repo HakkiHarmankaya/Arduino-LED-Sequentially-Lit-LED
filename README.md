@@ -2,6 +2,7 @@
 
 Bu projede, **8 adet LED'i sırasıyla** önce sağdan sola, ardından soldan sağa yakarak bir animasyon efekti elde ediyoruz.
 
+🔗 [Web Siteme Bakmak İçin Tıkla](https://www.hakkiharmankaya.com/)
 
 🔗 [Tinkercad Tasarımına Göz At](https://www.tinkercad.com/things/9QSijQ0KZcZ?sharecode=nMJ-mIsbuPPD_gBbqIH4iGT_3NJBTl-wlhgAEI-b5tg)
 
